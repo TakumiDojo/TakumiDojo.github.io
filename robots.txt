@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /test/
+
+# Evitar indexación de la página de contacto
+Disallow: /contacto/
+
+# Permitir el rastreo de la página principal
+Allow: /
+
+Sitemap: https://www.takumidojo.com/sitemap.xml

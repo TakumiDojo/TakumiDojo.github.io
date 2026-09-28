@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Página principal con todo el contenido -->
+  <url>
+    <loc>https://www.takumidojo.com/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <!-- Página principal con todo el contenido en cat -->
+  <url>
+    <loc>https://www.takumidojo.com/ca</loc>
+    <lastmod>2024-10-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+    <!-- Página principal con todo el contenido en eng -->
+  <url>
+    <loc>https://www.takumidojo.com/en</loc>
+    <lastmod>2024-10-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+    <!-- Página principal con todo el contenido en cast -->
+  <url>
+    <loc>https://www.takumidojo.com/es </loc>
+    <lastmod>2024-10-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+    <!-- Página principal con todo el contenido jap -->
+  <url>
+    <loc>https://www.takumidojo.com/jap</loc>
+    <lastmod>2024-10-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+
